@@ -6,10 +6,10 @@ Initially inspired by http://www.die.net/earth/
 
 
 REQUIREMENTS
-You will need imagemagick, xplanet, and perl. If you're using a system with apt as
+You will need wget, imagemagick, xplanet, and perl. If you're using a system with apt as
 the package manager, you can install these packages using:
 
-sudo apt-get install imagemagick xplanet perl
+sudo apt-get install wget imagemagick xplanet perl
 
 
 
