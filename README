@@ -9,7 +9,7 @@ Initially inspired by http://www.die.net/earth/
 REQUIREMENTS
 You will need wget, imagemagick, xplanet, and perl. If you're using a system with apt as
 the package manager, you can install these packages using:
-	sudo apt-get install wget imagemagick xplanet perl
+	sudo apt-get install wget imagemagick xplanet perl libwww-perl
 
 If you want to use makevideo.sh, you also need ffmpeg:
 	sudo apt-get install ffmpeg
