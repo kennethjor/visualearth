@@ -1,2 +1,2 @@
-Repo moved to [https://bitbucket.org/kennethjor/visualearth](bitbucket).
+Repo moved to [bitbucket](https://bitbucket.org/kennethjor/visualearth).
 
